@@ -8,4 +8,4 @@ Our current project being creaded is "Club Hub" which is an app that allow UH st
 
 ### Homepage
 
-Our homepage can be found at [https://rude-oh-villanueva.github.io/Rude-Oh-Villanueva/](here)
+Our homepage can be found at [https://rude-oh-villanueva.github.io/](here)
