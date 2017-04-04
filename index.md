@@ -2,7 +2,7 @@
 
 # About Rude-Oh-Villanueva
 
-Rude-Oh-Villanueva is our homepage for our group project for ICS 314 Spring 2017 semester.  The team consists of Jacob Rude, Christopher Oh, and Aaron Villanueva.  We will be creating a functioning version of Club Hub as described in the next section of our website
+Rude-Oh-Villanueva is our homepage for our group project for ICS 314 Spring 2017 semester.  The team consists of Jacob Rude, Christopher Oh, and Aaron Villanueva.  We will be creating a functioning version of Club Hub as described in the next section of our website.  
 
 # Project: Club Hub
 
