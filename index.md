@@ -5,6 +5,7 @@
 Rude-Oh-Villanueva is our homepage for our group project for ICS 314 Spring 2017 semester.  The team consists of Jacob Rude, Christopher Oh, and Aaron Villanueva.  We will be creating a functioning version of Club Hub as described in the next section of our website
 
 #Project: Club Hub
+
 ## Overview
 
 The problem: UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
