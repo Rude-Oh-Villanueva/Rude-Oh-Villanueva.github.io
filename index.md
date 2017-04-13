@@ -33,7 +33,8 @@ Some possible mockup pages include:
 * Admin home page
 * Club admin home page.
 * Browse clubs by interest area(s).
-![Image of List Club Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/ListClub.PNG)
+<img width="1440" alt="screen shot 2017-04-12 at 11 57 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25000136/d74413ec-1fdb-11e7-86d7-b4ac1a0bbf0e.png">
+
 
 ## Use case ideas
 
