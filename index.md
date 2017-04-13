@@ -27,7 +27,7 @@ Upon first login, all users must agree to Terms of Use before they obtain access
 Some possible mockup pages include:
 
 * Public Landing page
-![Image of Home Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva.github.io/images/Landing-Page.png)
+https://cloud.githubusercontent.com/assets/22675838/24999959/3c208058-1fdb-11e7-9d2e-2a79594a6695.png
 * Login page
 * User home page
 * Admin home page
