@@ -27,7 +27,8 @@ Upon first login, all users must agree to Terms of Use before they obtain access
 Some possible mockup pages include:
 
 * Public Landing page
-<img width="1440" alt="landing-page" src="https://cloud.githubusercontent.com/assets/22675838/24999959/3c208058-1fdb-11e7-9d2e-2a79594a6695.png">
+<img width="1440" alt="screen shot 2017-04-13 at 12 02 24 am" src="https://cloud.githubusercontent.com/assets/22675838/25000319/84f6096e-1fdc-11e7-8149-fe734e9e0c21.png">
+
 * Login page
 * User home page
 * Admin home page
