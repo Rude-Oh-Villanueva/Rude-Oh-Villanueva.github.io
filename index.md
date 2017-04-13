@@ -31,12 +31,14 @@ Some possible mockup pages include:
 
 * Login page
 * User home page
+<img width="1440" alt="screen shot 2017-04-13 at 12 00 36 am" src="https://cloud.githubusercontent.com/assets/22675838/25000259/5a3bf8c8-1fdc-11e7-9a5c-b05f2daffc22.png">
 * Admin home page
 * Club admin home page.
 * Browse clubs by interest area(s).
-<img width="1440" alt="screen shot 2017-04-13 at 12 00 36 am" src="https://cloud.githubusercontent.com/assets/22675838/25000259/5a3bf8c8-1fdc-11e7-9a5c-b05f2daffc22.png">
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://cloud.githubusercontent.com/assets/22675838/25021554/4bcc0646-202e-11e7-802d-f9563cbfda68.png">
 
 
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 03 am" src="https://cloud.githubusercontent.com/assets/22675838/25021549/496a0b46-202e-11e7-8f01-c65498d91e7a.png">
 ## Use case ideas
 
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
