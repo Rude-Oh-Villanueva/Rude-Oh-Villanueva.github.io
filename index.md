@@ -33,7 +33,7 @@ Some possible mockup pages include:
 * Admin home page
 * Club admin home page.
 * Browse clubs by interest area(s).
-<img width="1440" alt="screen shot 2017-04-12 at 11 57 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25000136/d74413ec-1fdb-11e7-86d7-b4ac1a0bbf0e.png">
+<img width="1440" alt="screen shot 2017-04-13 at 12 00 36 am" src="https://cloud.githubusercontent.com/assets/22675838/25000259/5a3bf8c8-1fdc-11e7-9a5c-b05f2daffc22.png">
 
 
 ## Use case ideas
