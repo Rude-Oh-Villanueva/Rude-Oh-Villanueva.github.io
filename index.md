@@ -77,11 +77,39 @@ First, we decided to implement the functionality of the Add Club page, this task
 
 
 ## CAS Login 
-Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.
+Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.  Users can click the login button in the top right of the screen and login with their student account.  
 
 
 To view the website, [Click Here](http://clubhub.meteorapp.com/) .
 To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
+
+# Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of BowFolios](https://github.com/Rude-Oh-Villanueva/Club_Hub.git), or clone it using git.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+
+## General Links
+
+To view the website, [Click Here](http://clubhub.meteorapp.com/) .
+To view Milestone One, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/1) .
+To view Milestone Two, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
+To view Milestone Three, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/3) .
+
 
 
 
