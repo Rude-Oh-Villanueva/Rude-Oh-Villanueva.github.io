@@ -79,6 +79,11 @@ First, we decided to implement the functionality of the Add Club page, this task
 ## CAS Login 
 Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.  Users can click the login button in the top right of the screen and login with their student account.  
 
+## Project Management
+
+[Image of Project Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_project.PNG)
+[Image of Issues Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_issue.PNG)
+[Image of Network Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_network.PNG)
 
 To view the website, [Click Here](http://clubhub.meteorapp.com/) .
 To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
