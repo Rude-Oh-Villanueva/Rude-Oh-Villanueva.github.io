@@ -81,9 +81,10 @@ Second, we decided to implement the CAS login system for our website, now users 
 
 ## Project Management
 
-[Image of Project Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_project.PNG)
-[Image of Issues Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_issue.PNG)
-[Image of Network Page](https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_network.PNG)
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_project.PNG">
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_issue.PNG">
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_network.PNG">
+
 
 To view the website, [Click Here](http://clubhub.meteorapp.com/) .
 To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
