@@ -65,7 +65,7 @@ None of these pages have functionality but, will in the upcoming milestones.
 ## Home Page
 <img width="1440" alt="screen shot 2017-04-13 at 12 00 36 am" src="https://cloud.githubusercontent.com/assets/22675838/25000259/5a3bf8c8-1fdc-11e7-9a5c-b05f2daffc22.png">
 ## Edit Club Page
-<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://cloud.githubusercontent.com/assets/22675838/25021554/4bcc0646-202e-11e7-802d-f9563cbfda68.png"
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://cloud.githubusercontent.com/assets/22675838/25021554/4bcc0646-202e-11e7-802d-f9563cbfda68.png">
 
 # Milestone two
 
