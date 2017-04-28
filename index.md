@@ -56,6 +56,22 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
 * Allow students to rate clubs.
 
+# Milestone two
+
+
+For this milestone we decided to do two things, implement functionality to the add club page, and add a CAS login system.
+
+## Add Club Functionality.  
+First, we decided to implement the functionality of the Add Club page, this task was assigned to Aaron Villanueva.  Now with the new implemented functionality, a user can add a new club, select the appropriate category, choose a meeting time, and submit a short bio describing the club.
+<img width="1440" alt="screen shot 2017-04-12 at 11 57 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25513360/430348c4-2b70-11e7-98d3-7d6ecb330282.png">
+
+
+## CAS Login 
+Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  
+
+
+To view the website, http://clubhub.meteorapp.com/
+
 
 
 
