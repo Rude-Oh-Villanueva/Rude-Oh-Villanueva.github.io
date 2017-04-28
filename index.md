@@ -70,7 +70,7 @@ First, we decided to implement the functionality of the Add Club page, this task
 Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  
 
 
-To view the website, http://clubhub.meteorapp.com/
+To view the website,[Click Here](http://clubhub.meteorapp.com/) 
 
 
 
