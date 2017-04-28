@@ -56,21 +56,32 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide “expiration date” for club listings (either one semester or one academic year). To retain a listing, the club admin or admin must login and click a “renew” button for the club to re-list it in the site.
 * Allow students to rate clubs.
 
-# Milestone two
+# Milestone  one
+Milestone ones goal was to create the mockup pages for the website.
+None of these pages have functionality but, will in the upcoming milestones.
 
+## Landing Page
+<img width="1440" alt="screen shot 2017-04-13 at 12 02 24 am" src="https://cloud.githubusercontent.com/assets/22675838/25000319/84f6096e-1fdc-11e7-8149-fe734e9e0c21.png">
+## Home Page
+<img width="1440" alt="screen shot 2017-04-13 at 12 00 36 am" src="https://cloud.githubusercontent.com/assets/22675838/25000259/5a3bf8c8-1fdc-11e7-9a5c-b05f2daffc22.png">
+## Edit Club Page
+<img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://cloud.githubusercontent.com/assets/22675838/25021554/4bcc0646-202e-11e7-802d-f9563cbfda68.png"
+
+# Milestone two
 
 For this milestone we decided to do two things, implement functionality to the add club page, and add a CAS login system.
 
 ## Add Club Functionality.  
 First, we decided to implement the functionality of the Add Club page, this task was assigned to Aaron Villanueva.  Now with the new implemented functionality, a user can add a new club, select the appropriate category, choose a meeting time, and submit a short bio describing the club.
-<img width="1440" alt="screen shot 2017-04-12 at 11 57 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25513360/430348c4-2b70-11e7-98d3-7d6ecb330282.png">
+<img width="1440" alt="screen shot 2017-04-27 at 6 03 23 pm" src="https://cloud.githubusercontent.com/assets/22675838/25513891/47110290-2b74-11e7-99a2-0a096e296502.png">
 
 
 ## CAS Login 
-Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  
+Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.
 
 
-To view the website,[Click Here](http://clubhub.meteorapp.com/) 
+To view the website, [Click Here](http://clubhub.meteorapp.com/) .
+To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
 
 
 
