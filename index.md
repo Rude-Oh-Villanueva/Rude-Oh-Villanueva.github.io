@@ -105,9 +105,12 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## General Links
 
-To view the website, [Click Here](http://clubhub.meteorapp.com/) .
+To view the website, [Click Here](http://clubhub.meteorapp.com/).
+
 To view Milestone One, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/1) .
+
 To view Milestone Two, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
+
 To view Milestone Three, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/3) .
 
 
