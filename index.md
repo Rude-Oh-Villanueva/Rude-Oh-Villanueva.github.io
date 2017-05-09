@@ -93,7 +93,7 @@ To view this milestone's progress and issues, [Click Here](https://github.com/Ru
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of BowFolios](https://github.com/Rude-Oh-Villanueva/Club_Hub.git), or clone it using git.
+Second, [download a copy of ClubHub](https://github.com/Rude-Oh-Villanueva/Club_Hub.git), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 
