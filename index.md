@@ -111,6 +111,7 @@ We wanted to stress a diverse userbase in asking for input on our website, not o
 
 <img width="1680" alt="screen shot 2017-05-09 at 2 25 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878041/82b69c9e-34c3-11e7-801d-65d74b682b1a.png">
 <img width="1680" alt="screen shot 2017-05-09 at 2 25 25 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878046/8c04b92a-34c3-11e7-9f6e-b6c8385986fc.png">
+<img width="1680" alt="screen shot 2017-05-09 at 10 53 39 pm" src="https://cloud.githubusercontent.com/assets/22675838/25890810/ac812ac0-350a-11e7-9ac7-2edfb8b8d3d5.png">
 <img width="1680" alt="screen shot 2017-05-09 at 2 25 34 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878050/8fe16962-34c3-11e7-968c-9b7a297abdd3.png">
 <img width="1680" alt="screen shot 2017-05-09 at 2 25 40 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878052/91998668-34c3-11e7-8478-3830269d61f6.png">
 
