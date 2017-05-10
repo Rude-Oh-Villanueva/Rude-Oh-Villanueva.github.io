@@ -106,6 +106,12 @@ We wanted to stress a diverse userbase in asking for input on our website, not o
 
 <img width="1680" alt="screen shot 2017-05-09 at 2 24 37 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878062/a4a2c918-34c3-11e7-9ed5-4c3defed696a.png">
 
+# Commit Data 
+
+<img width="1680" alt="screen shot 2017-05-09 at 11 07 02 pm" src="https://cloud.githubusercontent.com/assets/22675838/25891345/71e05786-350c-11e7-97c5-fd63bb654600.png">
+<img width="1680" alt="screen shot 2017-05-09 at 11 07 49 pm" src="https://cloud.githubusercontent.com/assets/22675838/25891350/73d12c3c-350c-11e7-8c94-7791a15f1e94.png">
+
+
 
 ## Up to date screenshots of the Website
 
