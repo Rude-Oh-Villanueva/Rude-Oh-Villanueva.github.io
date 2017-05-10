@@ -77,7 +77,21 @@ First, we decided to implement the functionality of the Add Club page, this task
 
 
 ## CAS Login 
-Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.  Users can click the login button in the top right of the screen and login with their student account.  
+Second, we decided to implement the CAS login system for our website, now users have the ability to login and view clubs with their own person University of Hawaii login.  Originally this was assigned to Jacob Rude, but a bug persisted in trying to get it finished.  Christopher Oh, was able to bug fix the code and complete it.  We decided to commit Chris's branch as that was the one that worked.  Users can click the login button in the top right of the screen and login with their student account.
+
+# Milestone three
+
+For this milestone we had to do two things.  First we had to continue to close out as many issues as possible to help complete the website and maximize its functionality.  Second, we needed to collect user feedback on the website.
+
+## Database
+
+We implemented and finished putting together the data-base for our add club featue, now whenever a user added a new club to the website it will be saved and can be viewed by other users.
+
+## User Feedback
+
+For this milestone we had a total of five people report feedback on the website, this included: Robert Figgs, a former ICS 314 student and Computer Sciences major.  Kahlin Baughman, a Computer Sciences major who has yet to take ICS 314, Bret Armstrong, a Math major who has dabbled in algorithmic analysis, Steven Braun, a previous ICS 314 student and Computer Sciences major, and Miles Provincer, a Music major and vocalist.  One of the underlying themes during the testing of the project was more personalization.  Having the ability to add pictures to the club pages and have user profiles with maybe a headshot picture would have been a huge plus.  Unfortunately, it did not make it into this deadline, but if we were to do it again we would add some of this user customizability.  Overall I heard some good comments, Miles Provincer said "The site is very smooth and makes navigation easy, even though there is a minimalistic feel to it, it makes viewing and using the website more streamline".  
+
+We wanted to stress a diverse userbase in asking for input on our website, not only were computer scientist good for finding some minor bugs and details, but other users who were not familiar with coding were very helpful in bringing to life bigger details in what could be done in the future.
 
 ## Project Management
 
