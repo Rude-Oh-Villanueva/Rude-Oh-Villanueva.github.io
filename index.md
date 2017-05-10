@@ -86,6 +86,10 @@ Second, we decided to implement the CAS login system for our website, now users 
 <img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_issue.PNG">
 <img width="1440" alt="screen shot 2017-04-13 at 9 46 11 am" src="https://raw.githubusercontent.com/Rude-Oh-Villanueva/Rude-Oh-Villanueva.github.io/master/images/M2_network.PNG">
 
+
+To view the website, [Click Here](http://clubhub.meteorapp.com/) .
+To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
+
 # Milestone three
 
 For this milestone we had to do two things.  First we had to continue to close out as many issues as possible to help complete the website and maximize its functionality.  Second, we needed to collect user feedback on the website.
@@ -100,9 +104,18 @@ For this milestone we had a total of five people report feedback on the website,
 
 We wanted to stress a diverse userbase in asking for input on our website, not only were computer scientist good for finding some minor bugs and details, but other users who were not familiar with coding were very helpful in bringing to life bigger details in what could be done in the future.
 
+<img width="1680" alt="screen shot 2017-05-09 at 2 24 37 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878062/a4a2c918-34c3-11e7-9ed5-4c3defed696a.png">
+
+
+## Up to date screenshots of the Website
+
+<img width="1680" alt="screen shot 2017-05-09 at 2 25 15 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878041/82b69c9e-34c3-11e7-801d-65d74b682b1a.png">
+<img width="1680" alt="screen shot 2017-05-09 at 2 25 25 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878046/8c04b92a-34c3-11e7-9f6e-b6c8385986fc.png">
+<img width="1680" alt="screen shot 2017-05-09 at 2 25 34 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878050/8fe16962-34c3-11e7-968c-9b7a297abdd3.png">
+<img width="1680" alt="screen shot 2017-05-09 at 2 25 40 pm" src="https://cloud.githubusercontent.com/assets/22675838/25878052/91998668-34c3-11e7-8478-3830269d61f6.png">
 
 To view the website, [Click Here](http://clubhub.meteorapp.com/) .
-To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/2) .
+To view this milestone's progress and issues, [Click Here](https://github.com/Rude-Oh-Villanueva/Club_Hub/projects/3) .
 
 # Installation
 
